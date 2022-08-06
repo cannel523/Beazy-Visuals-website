@@ -1,0 +1,89 @@
+body {
+  background-color: #810034;
+
+  text-align: center;
+
+
+}
+hr {
+  width: 50%;
+  height: 3px;
+  border: none;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #26001b;
+
+
+
+}
+h1 {
+  text-shadow: 2px 2px;
+  font-style: oblique;
+  font-size: 100px;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 5px;
+  color: black;
+  border-color: black;
+  margin: 10px;
+
+}
+.intro {
+  text-align: center;
+  font-size: 15px;
+  margin-bottom: 30px;
+  color: yellow;
+}
+.intro-slogan {
+  height: 50px;
+  font-size: 20px;
+  font-style: italic;
+  text-align: center;
+  color: yellow;
+
+
+
+}
+.intro-image1 {
+  position: absolute;
+  left:100px;
+  display: inline;
+}
+
+.intro-image2 {
+  position: absolute;
+  left: 785px;
+  display: inline;
+
+
+}
+.middle {
+  width: 300px;
+  height: 250px;
+  padding: 10px;
+  border-left: 20px;
+  border-right: 20px;
+  color: gray;
+  background-color: black;
+  margin-top: 10px;
+  margin-left: 50%;
+}
+.end {
+  width: 250px;
+  height: 250px;
+  padding: 10px;
+  border-left: 20px;
+  border-right: 20px;
+  border-color: gray;
+  background-color: black;
+  margin-top: 10px;
+  margin-right: 50%;
+  background-color: black;
+
+}
+.top-container {
+  background-color: white;
+  height: 375px;
+  padding-top: 30px;
+
+}
